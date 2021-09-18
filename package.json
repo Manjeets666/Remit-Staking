@@ -1,0 +1,22 @@
+{
+  "name": "Staking_Contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.13",
+    "chai": "^4.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
